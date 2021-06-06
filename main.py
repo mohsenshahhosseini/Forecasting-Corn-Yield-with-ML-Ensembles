@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-
 @author: Mohsen
 Ensemble Optimization - Bayesian Search - USDA Corn Yield Prediction
 """
